@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am <em>Raphael</em> 
+### I am <em>Patrick</em> 
 > i am an aspiring software engineer currently in the learning process, i love being a team member, <br/>i am open minded i like learning new skills that are productive.
   
   
@@ -27,10 +27,10 @@
 <br />
 ---
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raphaelmbewe&count_private=true&show_icons=true&theme=tokyonight&hide=stars" alt="raphael" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kazion500&count_private=true&show_icons=true&theme=tokyonight&hide=stars" alt="kazion" />
 </span>
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphaelmbewe&hide=php&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazion500&hide=php&layout=compact&theme=tokyonight" />
 </span>
 [website]: https://.com
 [twitter]: https://twitter.com/RaphaelMbewe12
