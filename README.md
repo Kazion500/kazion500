@@ -3,7 +3,7 @@
 > i am an aspiring software engineer currently in the learning process, i love being a team member, <br/>i am open minded i like learning new skills that are productive.
   
 ### Let's get talking
-<img align="left" alt="raphael | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />
+[<img align="left" alt="raphael | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />]
 [<img align="left" alt="raphael | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" />]
 [<img align="left" alt="raphael | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />]
 <br/>
