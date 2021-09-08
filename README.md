@@ -27,8 +27,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazion500&hide=php&layout=compact&theme=tokyonight" />
 </span>
 <br />
-<br />
 [website]: https://www.patrickabwe.com
-<br />
 <br />
 [linkedin]: https://www.linkedin.com/in/aeltech
