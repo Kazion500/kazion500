@@ -2,11 +2,6 @@
 ### I am <em>Patrick</em> 
 > i am an aspiring software engineer currently in the learning process, i love being a team member, <br/>i am open minded i like learning new skills that are productive.
   
-  
-  
-### - 🔭 I’m currently working on a project with an amazing team at ComGrow as a frontend developer.
-### - 🌱 I’m currently learning PHP and MYSQL 
-### - ⚡ Fun fact:listening to music and internet surfing.
 ### Let's get talking
 [<img align="left" alt="raphael | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="raphael | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" />][twitter]
@@ -32,7 +27,5 @@
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazion500&hide=php&layout=compact&theme=tokyonight" />
 </span>
-[website]: https://.com
-[twitter]: https://twitter.com/RaphaelMbewe12
-[facebook]: https://mobile.facebook.com/raphael.mbewe.56
+[website]: https://www.patrickabwe.com
 [linkedin]: https://www.linkedin.com/in/aeltech
