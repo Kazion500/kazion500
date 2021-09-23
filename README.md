@@ -16,7 +16,7 @@
 
 ---
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kazion500&count_private=true&show_icons=true&theme=radical&hide=stars" alt="kazion" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kazion500&count_private=true&show_icons=true&theme=radical" alt="kazion" />
 </span>
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazion500&layout=compact&theme=tokyonight" />
