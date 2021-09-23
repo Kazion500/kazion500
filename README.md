@@ -35,7 +35,7 @@
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kazion500&count_private=true&show_icons=true&theme=radical&hide=stars" alt="kazion" />
 </span>
-<span style="margin-left:30px">
+<span style="margin-left:30px; display:inline-block">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazion500&layout=compact&theme=tokyonight" />
 </span>
 <br />
