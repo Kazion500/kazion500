@@ -19,7 +19,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kazion500&count_private=true&show_icons=true&theme=tokyonight&hide=stars" alt="kazion" />
 </span>
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazion500&hide=php&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazion500&layout=compact&theme=tokyonight" />
 </span>
 <br />
 <br />
