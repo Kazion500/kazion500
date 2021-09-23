@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am <em>Patrick</em> 
+### I am Patrick
 > i am an aspiring software engineer, i love being a team member, <br/>i am open minded i like learning new skills that are productive.
 
 ### Languages and Tools:
