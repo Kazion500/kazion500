@@ -43,6 +43,6 @@
 <br />
 <br />
 <br />
-[website]: https://www.patrickkabwe.com
+[website](https://www.patrickkabwe.com)
 <br />
-[linkedin]: https://linkedin.com/in/patrick-kabwe-08197714a
+[linkedin](https://linkedin.com/in/patrick-kabwe-08197714a)
