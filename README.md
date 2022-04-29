@@ -1,7 +1,7 @@
 ## About me
 **Hello!**
 <br/>
-My name is [Patrick](https://patrickkabwe.com) and I'm a self taught developer skilled in Python(Django, django_rest_flamework, channels and Flask) and Javascript(React.js, React Native, Node.js)
+My name is [Patrick](https://patrickkabwe.com) and I'm a self taught developer skilled in Python(Django, django_rest_flamework,graphene, channels and Flask) and Javascript(React.js, React Native, Node.js,Graphql,Next.js)
 
 ```javascript
 const text = "I love to Code and Build software!"
